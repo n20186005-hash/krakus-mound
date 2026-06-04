@@ -53,9 +53,10 @@ export default function CookieSettingsClient() {
   const t = useTranslations('cookieSettings');
   const ht = useTranslations('header');
   const locale = useLocale();
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
+  const homeHref = `/${locale}`;
 
   const [analytics, setAnalytics] = useState(false);
+  const [preferences, setPreferences] = useState(false);
   const [marketing, setMarketing] = useState(false);
   const [saved, setSaved] = useState(false);
 
@@ -63,12 +64,22 @@ export default function CookieSettingsClient() {
     try {
       const prefs = JSON.parse(localStorage.getItem('cookiePrefs') || '{}');
       if (prefs.analytics) setAnalytics(true);
+      if (prefs.preferences) setPreferences(true);
       if (prefs.marketing) setMarketing(true);
     } catch {}
   }, []);
 
   function handleSave() {
-    localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, marketing }));
+    localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, preferences, marketing }));
+    setSaved(true);
+    setTimeout(() => setSaved(false), 2000);
+  }
+
+  function handleRejectAll() {
+    setAnalytics(false);
+    setPreferences(false);
+    setMarketing(false);
+    localStorage.setItem('cookiePrefs', JSON.stringify({ analytics: false, preferences: false, marketing: false }));
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }
@@ -110,6 +121,12 @@ export default function CookieSettingsClient() {
             onToggle={() => setAnalytics(!analytics)}
           />
           <CookieToggle
+            label={t('preferences.title')}
+            description={t('preferences.description')}
+            enabled={preferences}
+            onToggle={() => setPreferences(!preferences)}
+          />
+          <CookieToggle
             label={t('marketing.title')}
             description={t('marketing.description')}
             enabled={marketing}
@@ -117,13 +134,22 @@ export default function CookieSettingsClient() {
           />
         </div>
 
-        <button
-          onClick={handleSave}
-          className="px-6 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
-          style={{ background: 'var(--accent)' }}
-        >
-          {saved ? t('saved') : t('save')}
-        </button>
+        <div className="flex flex-wrap gap-4">
+          <button
+            onClick={handleSave}
+            className="px-6 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
+            style={{ background: 'var(--accent)' }}
+          >
+            {saved ? t('saved') : t('save')}
+          </button>
+          <button
+            onClick={handleRejectAll}
+            className="px-6 py-2.5 rounded-full text-sm font-medium transition-colors"
+            style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)', color: 'var(--text-secondary)' }}
+          >
+            {t('rejectAll')}
+          </button>
+        </div>
       </div>
     </div>
   );

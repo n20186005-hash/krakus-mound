@@ -8,23 +8,24 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const localePrefix = locale === 'it' ? '' : locale === 'en' ? '/en' : locale === 'fr' ? '/fr' : '/zh-Hant';
-  const itUrl = `${baseUrl}/privacy-policy`;
+  const baseUrl = 'https://krakusmound.com';
+  const zhUrl = `${baseUrl}/zh/privacy-policy`;
   const enUrl = `${baseUrl}/en/privacy-policy`;
-  const frUrl = `${baseUrl}/fr/privacy-policy`;
-  const zhUrl = `${baseUrl}/zh-Hant/privacy-policy`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
+  const plUrl = `${baseUrl}/pl/privacy-policy`;
+  const ruUrl = `${baseUrl}/ru/privacy-policy`;
+  const deUrl = `${baseUrl}/de/privacy-policy`;
+  const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : locale === 'pl' ? plUrl : locale === 'ru' ? ruUrl : deUrl;
 
   return {
     alternates: {
       canonical: selfUrl,
       languages: {
-        'it': itUrl,
+        'zh': zhUrl,
         'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
+        'pl': plUrl,
+        'ru': ruUrl,
+        'de': deUrl,
+        'x-default': zhUrl,
       },
     },
   };
@@ -35,7 +36,7 @@ function PrivacyContent() {
   const ht = useTranslations('header');
   const locale = useLocale();
   const messages = useMessages() as any;
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
+  const homeHref = `/${locale}`;
   const sections = (messages?.privacy?.sections || []) as Array<{ heading: string; content: string }>;
 
   return (

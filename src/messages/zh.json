@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "克拉库斯土丘 Krakus Mound｜克拉科夫史前神秘古冢与全景观景高地 - 最佳欧洲景点",
+    "title": "克拉库斯土丘 Krakus Mound｜克拉科夫史前神秘古冢与全景观景高地",
     "description": "探索波兰克拉库斯土丘完整指南。了解开放时间、交通路线、门票信息、游览攻略和精彩照片。史前古墓、历史土丘、观景高地、文化遗址。"
   },
   "header": {
@@ -8,7 +8,8 @@
     "gallery": "图库",
     "reviews": "评价",
     "map": "地图",
-    "backToHome": "返回首页"
+    "backToHome": "返回首页",
+    "siteName": "克拉库斯土丘"
   },
   "hero": {
     "title": "克拉库斯土丘",
@@ -219,20 +220,60 @@
     "showAll": "显示全部照片",
     "viewAll": "在 Google Maps 查看更多照片",
     "photos": [
-      {"src": "/gallery/images (1).jpg", "alt": "克拉库斯土丘全景"},
-      {"src": "/gallery/images (2).jpg", "alt": "克拉科夫老城远眺"},
-      {"src": "/gallery/images (3).jpg", "alt": "维斯瓦河河谷"},
-      {"src": "/gallery/images (4).jpg", "alt": "土丘顶部平台"},
-      {"src": "/gallery/images (5).jpg", "alt": "林间步道"},
-      {"src": "/gallery/images (6).jpg", "alt": "土丘日落"},
-      {"src": "/gallery/images (7).jpg", "alt": "克拉科夫城市全景"},
-      {"src": "/gallery/images (8).jpg", "alt": "绿地草坪"},
-      {"src": "/gallery/images (9).jpg", "alt": "土丘全景"},
-      {"src": "/gallery/images (10).jpg", "alt": "维斯瓦河"},
-      {"src": "/gallery/images (11).jpg", "alt": "克拉科夫风光"},
-      {"src": "/gallery/images (12).jpg", "alt": "土丘剪影"},
-      {"src": "/gallery/images (13).jpg", "alt": "自然景观"}
-    ]
+      {
+        "src": "/gallery/images (1).jpg",
+        "alt": "克拉库斯土丘全景"
+      },
+      {
+        "src": "/gallery/images (2).jpg",
+        "alt": "克拉科夫老城远眺"
+      },
+      {
+        "src": "/gallery/images (3).jpg",
+        "alt": "维斯瓦河河谷"
+      },
+      {
+        "src": "/gallery/images (4).jpg",
+        "alt": "土丘顶部平台"
+      },
+      {
+        "src": "/gallery/images (5).jpg",
+        "alt": "林间步道"
+      },
+      {
+        "src": "/gallery/images (6).jpg",
+        "alt": "土丘日落"
+      },
+      {
+        "src": "/gallery/images (7).jpg",
+        "alt": "克拉科夫城市全景"
+      },
+      {
+        "src": "/gallery/images (8).jpg",
+        "alt": "绿地草坪"
+      },
+      {
+        "src": "/gallery/images (9).jpg",
+        "alt": "土丘全景"
+      },
+      {
+        "src": "/gallery/images (10).jpg",
+        "alt": "维斯瓦河"
+      },
+      {
+        "src": "/gallery/images (11).jpg",
+        "alt": "克拉科夫风光"
+      },
+      {
+        "src": "/gallery/images (12).jpg",
+        "alt": "土丘剪影"
+      },
+      {
+        "src": "/gallery/images (13).jpg",
+        "alt": "自然景观"
+      }
+    ],
+    "mapsUrl": "https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8"
   },
   "reviews": {
     "title": "游客评价",
@@ -266,7 +307,6 @@
       }
     ]
   },
-  "siteName": "克拉库斯土丘",
   "mapSection": {
     "title": "交通指南",
     "subtitle": "30-543 Kraków, Poland",
@@ -281,34 +321,108 @@
     "cookies": "Cookie 设置",
     "officialResourcesTitle": "相关资源与资讯",
     "officialLinks": [
-      { "name": "波兰共和国外交与签证", "url": "https://www.gov.pl/" },
-      { "name": "波兰国家旅游局", "url": "https://www.poland.travel/en/" },
-      { "name": "波兰国家遗产研究院", "url": "https://nid.pl/" },
-      { "name": "小波兰省旅游", "url": "https://www.malopolska.pl/" },
-      { "name": "克拉科夫博物馆", "url": "https://muzeumkrakowa.pl/" },
-      { "name": "克拉科夫官方旅游局", "url": "https://krakow.travel/" }
+      {
+        "name": "波兰共和国外交与签证",
+        "url": "https://www.gov.pl/"
+      },
+      {
+        "name": "波兰国家旅游局",
+        "url": "https://www.poland.travel/en/"
+      },
+      {
+        "name": "波兰国家遗产研究院",
+        "url": "https://nid.pl/"
+      },
+      {
+        "name": "小波兰省旅游",
+        "url": "https://www.malopolska.pl/"
+      },
+      {
+        "name": "克拉科夫博物馆",
+        "url": "https://muzeumkrakowa.pl/"
+      },
+      {
+        "name": "克拉科夫官方旅游局",
+        "url": "https://krakow.travel/"
+      }
     ],
-    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
+    "siteName": "克拉库斯土丘"
   },
   "officialManagement": {
     "title": "关于克拉库斯土丘",
     "text": "克拉库斯土丘是克拉科夫最重要的史前文化遗产之一，也是波兰珍贵的文化遗址。\n\n作为克拉科夫城市起源传说的核心地标，克拉库斯土丘见证了两千余年的岁月变迁与文明演进。如今，景区免费向公众开放，是探索克拉科夫史前文明与全景观景的绝佳目的地，也是世界各地游客感受中欧古老文化魅力的重要窗口。"
   },
-  "recommendations": {
-    "title": "探索更多",
-    "attractionsTitle": "附近景点",
-    "toursTitle": "推荐行程与活动",
-    "attractions": [
-      {"name": "克拉科夫老城", "url": "https://www.krakow.pl"},
-      {"name": "瓦维尔城堡", "url": "https://www.wawel.krakow.pl"},
-      {"name": "维斯瓦河", "url": "https://www.krakow.pl"},
-      {"name": "克拉科夫集市广场", "url": "https://www.krakow.pl"}
-    ],
-    "tours": [
-      {"name": "克拉科夫老城深度游", "url": "https://www.krakow.pl"},
-      {"name": "维斯瓦河漫步", "url": "https://www.krakow.pl"},
-      {"name": "城堡区导览游", "url": "https://www.wawel.krakow.pl"},
-      {"name": "城市全景徒步", "url": "https://www.krakow.pl"}
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年5月",
+    "sections": [
+      {
+        "heading": "我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）；Cookie 和类似技术；您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验；分析流量和使用模式；回应请求；遵守我们的法律义务。"
+      },
+      {
+        "heading": "第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据；要求更正或删除；反对处理；向监管机构提出投诉。"
+      }
     ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年5月",
+    "sections": [
+      {
+        "heading": "访问和使用",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站设计和原创内容受版权保护。图片来自 Unsplash，并已获得其许可。Google 地图数据的使用符合 Google 的服务条款。"
+      },
+      {
+        "heading": "责任限制",
+        "content": "本网站按\"原样\"提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。"
+    },
+    "preferences": {
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。"
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。"
+    },
+    "save": "保存偏好设置",
+    "saved": "已保存",
+    "rejectAll": "拒绝一切"
   }
 }

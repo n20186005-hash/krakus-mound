@@ -7,7 +7,7 @@ export default function Footer() {
   const officialLinks = (messages?.footer?.officialLinks || []) as Array<{ name: string; url: string }>;
   const siteName = t('siteName') || 'Krakus Mound';
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const prefix = `/${locale}`;
 
   return (
     <footer

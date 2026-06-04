@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Krakus Mound｜Kraków Prehistoric Burial Mound & Panoramic Viewpoint - Best European Spots",
+    "title": "Krakus Mound｜Kraków Prehistoric Burial Mound & Panoramic Viewpoint",
     "description": "Complete guide to Krakus Mound in Poland. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Prehistoric burial mound, historic earthwork, panoramic viewpoint, cultural heritage."
   },
   "header": {
@@ -8,13 +8,14 @@
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "siteName": "Krakus Mound"
   },
   "hero": {
     "title": "Krakus Mound",
     "subtitle": "Kraków Prehistoric Burial Mound・Panoramic Viewpoint & Cultural Heritage",
     "rating": "4.8",
-    "reviewCount": "10,980",
+    "reviewCount": "11,050",
     "hours": "Open 24/7",
     "openMaps": "View Location",
     "imageSrc": "/gallery/images (1).jpg"
@@ -28,7 +29,7 @@
         "Recommended to visit at dusk for panoramic city views and beautiful light",
         "Sunset is the best time to visit with fewer tourists and excellent experience",
         "Public area of Krakus Mound is free, no entrance fee, no viewing platform charge",
-        "Wear防滑舒适鞋履, be careful of wet and muddy roads after rain"
+        "Wear, be careful of wet and muddy roads after rain"
       ]
     },
     "alsoKnownAs": {
@@ -47,7 +48,7 @@
       {
         "id": "history",
         "title": "Millennium Mound History",
-        "content": "The construction of Krakus Mound can be traced back to the prehistoric Iron Age, built by ancient Slavic tribes through rammed earth stacking, with a history of more than two thousand years. Legend has it that this is the burial place of Krakus, the founding king of Kraków. Since ancient times, it has been endowed with sacred significance and served as a sanctuary for tribal sacrifices and ritual gatherings.\n\nDuring the medieval period, the mound was recorded in local historical records and became a landmark of Kraków territory,常年受到当地民众敬畏与保护。In modern times, the surrounding area has been planned as public green space, with walking trails and leisure facilities improved, opening to tourists under the premise of completely protecting the original appearance of the site.\n\nAfter thousands of years of wind and rain erosion and vegetation changes, this primitive mound has been well preserved to this day, without large-scale artificial transformation, completely retaining the ancient style. It witnesses Kraków's growth from tribal settlement to famous Central European city, carrying multiple historical significance of mythology, burial, and sacrifice, and is a rare prehistoric living site in Poland."
+        "content": "The construction of Krakus Mound can be traced back to the prehistoric Iron Age, built by ancient Slavic tribes through rammed earth stacking, with a history of more than two thousand years. Legend has it that this is the burial place of Krakus, the founding king of Kraków. Since ancient times, it has been endowed with sacred significance and served as a sanctuary for tribal sacrifices and ritual gatherings. During the medieval period, the mound was recorded in local historical records and became a landmark of Kraków territory,。In modern times, the surrounding area has been planned as public green space, with walking trails and leisure facilities improved, opening to tourists under the premise of completely protecting the original appearance of the site. After thousands of years of wind and rain erosion and vegetation changes, this primitive mound has been well preserved to this day, without large-scale artificial transformation, completely retaining the ancient style. It witnesses Kraków's growth from tribal settlement to famous Central European city, carrying multiple historical significance of mythology, burial, and sacrifice, and is a rare prehistoric living site in Poland."
       },
       {
         "id": "architecture",
@@ -219,20 +220,60 @@
     "showAll": "Show all photos",
     "viewAll": "View more photos on Google Maps",
     "photos": [
-      {"src": "/gallery/images (1).jpg", "alt": "Krakus Mound Panoramic View"},
-      {"src": "/gallery/images (2).jpg", "alt": "Kraków Old Town Distant View"},
-      {"src": "/gallery/images (3).jpg", "alt": "Vistula River Valley"},
-      {"src": "/gallery/images (4).jpg", "alt": "Mound Top Platform"},
-      {"src": "/gallery/images (5).jpg", "alt": "Forest Trail"},
-      {"src": "/gallery/images (6).jpg", "alt": "Mound Sunset"},
-      {"src": "/gallery/images (7).jpg", "alt": "Kraków City Panorama"},
-      {"src": "/gallery/images (8).jpg", "alt": "Green Lawn"},
-      {"src": "/gallery/images (9).jpg", "alt": "Mound Panorama"},
-      {"src": "/gallery/images (10).jpg", "alt": "Vistula River"},
-      {"src": "/gallery/images (11).jpg", "alt": "Kraków Scenery"},
-      {"src": "/gallery/images (12).jpg", "alt": "Mound Silhouette"},
-      {"src": "/gallery/images (13).jpg", "alt": "Nature Scenery"}
-    ]
+      {
+        "src": "/gallery/images (1).jpg",
+        "alt": "Krakus Mound Panoramic View"
+      },
+      {
+        "src": "/gallery/images (2).jpg",
+        "alt": "Kraków Old Town Distant View"
+      },
+      {
+        "src": "/gallery/images (3).jpg",
+        "alt": "Vistula River Valley"
+      },
+      {
+        "src": "/gallery/images (4).jpg",
+        "alt": "Mound Top Platform"
+      },
+      {
+        "src": "/gallery/images (5).jpg",
+        "alt": "Forest Trail"
+      },
+      {
+        "src": "/gallery/images (6).jpg",
+        "alt": "Mound Sunset"
+      },
+      {
+        "src": "/gallery/images (7).jpg",
+        "alt": "Kraków City Panorama"
+      },
+      {
+        "src": "/gallery/images (8).jpg",
+        "alt": "Green Lawn"
+      },
+      {
+        "src": "/gallery/images (9).jpg",
+        "alt": "Mound Panorama"
+      },
+      {
+        "src": "/gallery/images (10).jpg",
+        "alt": "Vistula River"
+      },
+      {
+        "src": "/gallery/images (11).jpg",
+        "alt": "Kraków Scenery"
+      },
+      {
+        "src": "/gallery/images (12).jpg",
+        "alt": "Mound Silhouette"
+      },
+      {
+        "src": "/gallery/images (13).jpg",
+        "alt": "Nature Scenery"
+      }
+    ],
+    "mapsUrl": "https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8"
   },
   "reviews": {
     "title": "Visitor Reviews",
@@ -266,7 +307,6 @@
       }
     ]
   },
-  "siteName": "Krakus Mound",
   "mapSection": {
     "title": "How to Get Here",
     "subtitle": "30-543 Kraków, Poland",
@@ -281,34 +321,108 @@
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": [
-      { "name": "Ministry of Foreign Affairs Republic of Poland", "url": "https://www.gov.pl/" },
-      { "name": "Polish Tourism Organisation", "url": "https://www.poland.travel/en/" },
-      { "name": "National Institute of Cultural Heritage", "url": "https://nid.pl/" },
-      { "name": "Małopolska Tourist Information", "url": "https://www.malopolska.pl/" },
-      { "name": "Museum of Kraków", "url": "https://muzeumkrakowa.pl/" },
-      { "name": "Official Kraków Tourism", "url": "https://krakow.travel/" }
+      {
+        "name": "Ministry of Foreign Affairs Republic of Poland",
+        "url": "https://www.gov.pl/"
+      },
+      {
+        "name": "Polish Tourism Organisation",
+        "url": "https://www.poland.travel/en/"
+      },
+      {
+        "name": "National Institute of Cultural Heritage",
+        "url": "https://nid.pl/"
+      },
+      {
+        "name": "Małopolska Tourist Information",
+        "url": "https://www.malopolska.pl/"
+      },
+      {
+        "name": "Museum of Kraków",
+        "url": "https://muzeumkrakowa.pl/"
+      },
+      {
+        "name": "Official Kraków Tourism",
+        "url": "https://krakow.travel/"
+      }
     ],
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
+    "siteName": "Krakus Mound"
   },
   "officialManagement": {
     "title": "About Krakus Mound",
     "text": "Krakus Mound is one of the most important prehistoric cultural heritages in Kraków, and also a precious cultural site in Poland.\n\nAs the core landmark of Kraków city origin legend, Krakus Mound has witnessed more than two thousand years of changes and civilization evolution. Today, the scenic area is open to the public free of charge, offering an excellent destination for exploring Kraków prehistoric civilization and panoramic viewing, and an important window for visitors worldwide to experience Central European ancient cultural charm."
   },
-  "recommendations": {
-    "title": "Discover More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
-    "attractions": [
-      {"name": "Kraków Old Town", "url": "https://www.krakow.pl"},
-      {"name": "Wawel Castle", "url": "https://www.wawel.krakow.pl"},
-      {"name": "Vistula River", "url": "https://www.krakow.pl"},
-      {"name": "Kraków Market Square", "url": "https://www.krakow.pl"}
-    ],
-    "tours": [
-      {"name": "Kraków Old Town Deep Tour", "url": "https://www.krakow.pl"},
-      {"name": "Vistula River Walk", "url": "https://www.krakow.pl"},
-      {"name": "Castle District Guided Tour", "url": "https://www.wawel.krakow.pl"},
-      {"name": "City Panoramic Hiking", "url": "https://www.krakow.pl"}
+  "privacy": {
+    "title": "Polityka Prywatności",
+    "lastUpdated": "Ostatnia aktualizacja: maj 2026",
+    "sections": [
+      {
+        "heading": "Informacje, które zbieramy",
+        "content": "Zbieramy tylko dane niezbędne do świadczenia naszych usług. Mogą to obejmować: dane przeglądania (adres IP, typ przeglądarki, odwiedzane strony); pliki Cookie i podobne technologie; wszelkie informacje, które dobrowolnie podasz za pośrednictwem formularzy kontaktowych lub e-maila."
+      },
+      {
+        "heading": "Jak wykorzystujemy Twoje informacje",
+        "content": "Wykorzystujemy zebrane informacje w celu: poprawy zawartości strony i doświadczeń użytkownika; analizy ruchu i wzorców użytkowania; odpowiedzi na zapytania; spełnienia naszych obowiązków prawnych."
+      },
+      {
+        "heading": "Usługi trzecie",
+        "content": "Nasza strona może korzystać z usług trzecich, takich jak Google Maps (do osadzania map i danych lokalizacyjnych), Google Analytics (do analizy ruchu) oraz Unsplash (do obrazów). Usługi te mają własne polityki prywatności."
+      },
+      {
+        "heading": "Twoje prawa",
+        "content": "Zgodnie z RODO i powiązanymi przepisami masz prawo do: dostępu do swoich danych osobowych; żądania sprostowania lub usunięcia; sprzeciwu wobec przetwarzania; wniesienia skargi do organu nadzorczego."
+      }
     ]
+  },
+  "terms": {
+    "title": "Warunki korzystania",
+    "lastUpdated": "Ostatnia aktualizacja: maj 2026",
+    "sections": [
+      {
+        "heading": "Dostęp i korzystanie",
+        "content": "Uzyskując dostęp do tej strony i korzystając z niej, zgadzasz się na wiązanie tymi Warunkami korzystania."
+      },
+      {
+        "heading": "Wykorzystanie treści",
+        "content": "Cała zawartość tej strony służy wyłącznie celom informacyjnym. Jesteśmy niezależną stroną internetową z informacjami turystycznymi osób trzecich i nie jesteśmy powiązani z żadnymi atrakcjami turystycznymi, agencjami rządowymi ani operatorami komercyjnymi."
+      },
+      {
+        "heading": "Dokładność informacji",
+        "content": "Dążymy do zapewnienia dokładnych i aktualnych informacji, ale nie możemy zagwarantować kompletności lub dokładności informacji. Harmonogramy, warunki i usługi mogą ulec zmianie bez powiadomienia. Przed podróżą należy zweryfikować ważne informacje przez oficjalne kanały."
+      },
+      {
+        "heading": "Własność intelektualna",
+        "content": "Projekt tej strony i oryginalna zawartość są chronione prawem autorskim. Obrazy pochodzą z Unsplash i są używane na licencji. Wykorzystywanie danych Google Maps jest zgodne z Warunkami korzystania Google."
+      },
+      {
+        "heading": "Ograniczenie odpowiedzialności",
+        "content": "Ta strona jest dostarczana \"w takiej postaci, w jakiej jest\" bez jakichkolwiek gwarancji. Nie ponosimy odpowiedzialności za jakiekolwiek straty spowodowane korzystaniem z informacji na tej stronie, w tym ale nie wyłącznie z decyzji podróżniczych podjętych na podstawie zawartości tej strony."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Ustawienia plików Cookie",
+    "description": "Używamy plików Cookie, aby poprawić Twoje doświadczenia podczas przeglądania. Możesz zarządzać swoimi preferencjami poniżej.",
+    "essential": {
+      "title": "Niezbędne pliki Cookie",
+      "description": "Te pliki cookie są niezbędne do prawidłowego funkcjonowania strony i nie można ich wyłączyć.",
+      "badge": "Zawsze aktywne"
+    },
+    "analytics": {
+      "title": "Analityczne pliki Cookie",
+      "description": "Pomagają nam zrozumieć, jak odwiedzający interaktują z naszą stroną, gromadząc anonimowe dane o użytkowaniu."
+    },
+    "preferences": {
+      "title": "Preferencyjne pliki Cookie",
+      "description": "Zapamiętują Twoje ustawienia, takie jak preferencje języka i motywu."
+    },
+    "marketing": {
+      "title": "Marketingowe pliki Cookie",
+      "description": "Są używane do wyświetlania odpowiednich reklam i mierzenia skuteczności kampanii reklamowych."
+    },
+    "save": "Zapisz preferencje",
+    "saved": "Zapisano",
+    "rejectAll": "Odrzuć wszystkie"
   }
 }

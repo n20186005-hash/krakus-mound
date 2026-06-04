@@ -7,7 +7,7 @@ import { useState, useEffect } from 'react';
 
 export default function Header() {
   const t = useTranslations('header');
-  const siteName = t('siteName') || 'Rubjerg Knude';
+  const siteName = t('siteName') || 'Krakus Mound';
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
