@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "title": "Krakus Mound｜Kraków Prehistoric Burial Mound & Panoramic Viewpoint - Best European Spots",
+    "description": "Complete guide to Krakus Mound in Poland. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Prehistoric burial mound, historic earthwork, panoramic viewpoint, cultural heritage."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Krakus Mound",
+    "subtitle": "Kraków Prehistoric Burial Mound・Panoramic Viewpoint & Cultural Heritage",
+    "rating": "4.8",
+    "reviewCount": "10,980",
+    "hours": "Open 24/7",
+    "openMaps": "View Location",
+    "imageSrc": "/gallery/images (1).jpg"
+  },
+  "intro": {
+    "title": "Discover Krakus Mound",
+    "description": "The moment you climb to the top of Krakus Mound, you'll be instantly moved by the primal and vast atmosphere. Unlike exquisite man-made monuments, this thousand-year-old earth mound sits quietly in the suburbs of Kraków, covered with grass and plants, with wind sweeping through the wild grass, carrying a profound sense of ancient history. I visited at dusk, when the entire mound is quiet and soothing, far from the hustle and bustle of the old town, surrounded by lush greenery, with views stretching outward.\n\nWalking slowly along the gentle slope trail to the summit, the entire city of Kraków unfolds before your eyes, with continuous red-roofed old town, winding river and distant mountains complementing each other, with transparent and healing views. There aren't many people on the mound, with occasional visitors walking quietly and waiting for sunset, no commercial stalls, only pure natural wilderness and ancient ruins.\n\nHere hides the oldest legend of the city. Every inch of rammed earth under your feet bears the traces left by prehistoric civilization. Standing at the top of the highland and looking into the distance, you can feel the mysterious atmosphere of ancient legends while overlooking the daily life of the modern city, where ancient and modern gently intersect.\n\nWhen the sunset slowly descends, warm yellow light spreads across the entire wilderness, the outline of the mound becomes soft and long, and the city tone becomes gentle and hazy. At this moment, you'll understand why locals prefer to come here to relax. The ancient mound is not just a historical site, but also the quietest viewing secret and spiritual sanctuary of the city.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Recommended to visit at dusk for panoramic city views and beautiful light",
+        "Sunset is the best time to visit with fewer tourists and excellent experience",
+        "Public area of Krakus Mound is free, no entrance fee, no viewing platform charge",
+        "Wear防滑舒适鞋履, be careful of wet and muddy roads after rain"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "One of the oldest prehistoric artificial mounds in Poland",
+        "Core site of Kraków city origin legend",
+        "Important prehistoric civilization relic in Central Europe",
+        "Excellent viewpoint overlooking Kraków old town"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "The Charm of Krakus Mound",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Millennium Mound History",
+        "content": "The construction of Krakus Mound can be traced back to the prehistoric Iron Age, built by ancient Slavic tribes through rammed earth stacking, with a history of more than two thousand years. Legend has it that this is the burial place of Krakus, the founding king of Kraków. Since ancient times, it has been endowed with sacred significance and served as a sanctuary for tribal sacrifices and ritual gatherings.\n\nDuring the medieval period, the mound was recorded in local historical records and became a landmark of Kraków territory,常年受到当地民众敬畏与保护。In modern times, the surrounding area has been planned as public green space, with walking trails and leisure facilities improved, opening to tourists under the premise of completely protecting the original appearance of the site.\n\nAfter thousands of years of wind and rain erosion and vegetation changes, this primitive mound has been well preserved to this day, without large-scale artificial transformation, completely retaining the ancient style. It witnesses Kraków's growth from tribal settlement to famous Central European city, carrying multiple historical significance of mythology, burial, and sacrifice, and is a rare prehistoric living site in Poland."
+      },
+      {
+        "id": "architecture",
+        "title": "Architectural Features",
+        "content": "The whole is a huge artificial rammed earth mountain, with round and regular shape, flat and open mountaintop. You can overlook Kraków city and Vistula River valley 360 degrees from the top. The mound is surrounded by natural green space, forest trails and memorial pieces, with strong wilderness atmosphere, where nature and ancient ruins are integrated. Simple prehistoric rammed earth architectural style, without complicated artificial decoration, mainly native vegetation, open highland, and primitive mound, the whole is primitive and simple, full of ancient mysterious atmosphere."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Value",
+        "content": "According to legend, it is the burial place of Krakus, the founder of Kraków legend. Since ancient times, it has been a place for sacrifice, gathering and traditional festival celebrations. It carries the ancient mythology and folk culture of the Slavic nation. Nowadays, it is a niche highland for locals to hike, relax and watch sunset, with both historical mystery and natural leisure value. Small cultural activities and traditional festival ceremonies are held all year round, making it one of the most mysterious cultural sites in Kraków."
+      },
+      {
+        "id": "experience",
+        "title": "Core Experience",
+        "content": "The sunset moment is the highlight here. The warm orange sunset slowly descends, and the soft glow spreads across Kraków old town and river valley. The outline of the mound is wrapped in gentle light. The evening breeze is cool, and the city noise is isolated by the suburban green space. You don't need to deliberately find a viewing angle. The entire highland is an excellent view. Watching the sunset dye the sky quietly, you can understand the gentle and mysterious city temperament of Kraków."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Kopiec Krakusa",
+    "type": "Attraction Type",
+    "typeValue": "Historical landmark",
+    "country": "Country",
+    "countryValue": "Poland",
+    "city": "City",
+    "cityValue": "Kraków",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.8 (11,050)",
+    "phone": "Phone",
+    "phoneValue": "",
+    "address": "Address",
+    "addressValue": "30-543 Kraków, Poland",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "2XQ5+69 Kraków, Poland"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Site & Mound Area",
+    "outdoorTime": "Open 24/7, year-round, no time limit",
+    "lighthouse": "Surrounding exhibition halls & service points",
+    "summer": "Daily operating hours",
+    "summerTime": "09:00–17:00",
+    "winter": "Monday",
+    "winterTime": "Regular closure",
+    "warning": "Warm Tips",
+    "warningTime": "Recommended to climb at sunset for panoramic city skyline, beautiful light, fewer tourists",
+    "tip": "Recommended to visit at off-peak dusk, more comfortable avoiding daytime crowds"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "outdoor": "Krakus Mound public area",
+    "outdoorPrice": "Free opening, free summit viewing, no entrance fee",
+    "lighthouse": "Surrounding small history exhibition hall & interpretation area",
+    "adults": "Adults",
+    "adultsPrice": "Separate payment, affordable price",
+    "students": "Students",
+    "studentsPrice": "Enjoy preferential policies",
+    "children": "Children",
+    "childrenPrice": "Subject to venue announcement",
+    "card": "Kraków City Tour Card",
+    "cardPrice": "Can deduct related venue fees, suitable for multi-point tours"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "airport": "From Kraków John Paul II International Airport",
+    "airportDesc": "Take city bus and tram to city center, transfer to south line public transport to mound area, about 35 minutes; airport rideshare and taxi are convenient, suitable for quick direct access with luggage.",
+    "selfDrive": "City Public Transport (Recommended)",
+    "selfDriveDesc": "From Kraków Central Railway Station, take tram and short-distance bus, arrive at scenic spot nearby station within 20 minutes, short walk to entrance, frequent public transport.",
+    "bus": "From Kraków Old Town Core Area",
+    "busDesc": "Walking or cycling are both feasible, along the suburbs greenland scenery is beautiful, suitable for short slow travel. City supports public cycling, mound foot has parking area, short-distance travel is very convenient.",
+    "intercity": "From Kraków Central Railway Station",
+    "intercityDesc": "Take tram and short-distance bus, arrive at scenic spot nearby station within 20 minutes, short walk to entrance, frequent public transport.",
+    "cycling": "Cycling/Public Bike",
+    "cyclingDesc": "City supports public cycling, mound foot has parking area, short-distance travel is very convenient. Recommended to buy Kraków public transport day ticket, unlimited tram and bus rides.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Recommended to buy Kraków public transport day ticket, unlimited tram and bus rides, suitable for multi-point tours. From old town, you can walk along the river to the mountain, with rich riverside street scenes along the way."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Recommended to depart at dusk, enter from the main trail at the foot of the mountain, slowly climb to the top along the gentle slope trail, overlooking the panoramic view of Kraków city in all directions; walk around the mountaintop platform, enjoy the surrounding wilderness and river valley scenery, then go down the mountain along the back mountain trail, walk in the surrounding forest green space, the whole journey is slow and relaxing, pure tour about 1 hour, with walking and relaxing can be extended to half a day.",
+    "supplementsTitle": "Travel Tips",
+    "steps": [
+      "Arrive at the bus station around the mound, walk to the main entrance of the scenic spot at the foot of the mountain",
+      "Slowly walk up along the gentle uphill trail in the forest, enjoy the native grassland and natural vegetation along the way",
+      "Step by step to the top platform of Krakus Mound, stop to overlook the panoramic view of the entire Kraków city",
+      "Walk around the highland on the top of the mountain for a circle, shoot city distant view and wilderness scenery from multiple angles",
+      "Find a quiet corner at the edge of the platform, sit quietly and wait for sunset, feel the highland evening breeze and broad vision",
+      "Go down along the niche trail on the west side, walk through the quiet forest path, experience the natural quiet atmosphere",
+      "Walk on the green lawn outside the mound, feel the original ecological leisure environment in the suburbs",
+      "Walk back along the main road, connect with surrounding transportation, continue Kraków itinerary arrangement"
+    ],
+    "supplements": [
+      "The slope surface of the mound is mainly grassland and dirt road, recommended to wear anti-slip comfortable shoes",
+      "Be careful of wet and muddy roads after rain, highland wind is strong, pay attention to wind protection in spring and autumn",
+      "Excavation, destruction of vegetation and earthwork are prohibited in the entire site, consciously protect prehistoric monuments",
+      "The site has no excessive commercial facilities, recommended to prepare drinking water in advance",
+      "The site is public green space, take good care of grass and plants, prohibit trampling greening and littering"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Mountaintop Central Platform",
+        "desc": "360-degree unobstructed view, shooting Kraków city panorama and river valley distant view, sunset masterpiece first choice"
+      },
+      {
+        "name": "Mound Slope Grassland",
+        "desc": "Large area of wild grassland as foreground, matching distant city, atmospheric wilderness healing"
+      },
+      {
+        "name": "West Side Downhill Trail",
+        "desc": "Sunset exclusive photo spot, backlight outlines mound outline, sunset scenery has great texture"
+      },
+      {
+        "name": "Forest Mountain Trail",
+        "desc": "Forest frame composition, creating niche secret style scenery picture"
+      },
+      {
+        "name": "Open Area Outside Mountain Foot",
+        "desc": "Long-distance shooting of the entire Krakus Mound complete shape and mountain body outline"
+      }
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "Highland has no shelter, strong ultraviolet rays during the day, take good sun protection measures. Drone flight is prohibited in the entire area, abide by cultural relic protection management regulations. Few tourists in the site, easy to shoot empty mirror masterpieces. Autumn and winter vegetation is withered, monument atmosphere is stronger, suitable for retro and niche style shooting."
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Quiet Accommodation on Kraków Old Town Edge (Noble Not Expensive)",
+        "desc": "Convenient travel, quiet and livable, short-distance bus can reach mound scenic spot, outstanding cost performance",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Riverside Modern Minimalist Residence (Design Choice)",
+        "desc": "Broad vision, perfect transportation, taking into account playing and rest experience, suitable for design lovers",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Old Town Retro Courtyard Accommodation (Characteristic Experience)",
+        "desc": "European old building renovation, deeply feel Kraków Central European old town customs, strong atmosphere",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "High Cost Performance Accommodation Along Suburban Transportation (Budget Choice)",
+        "desc": "Convenient public transport, lower travel cost, complete facilities, suitable for free travel tourists with limited budget",
+        "price": "Price varies by season"
+      }
+    ],
+    "supplements": "Accommodation Tips",
+    "supplementsContent": "Kraków overall public security is excellent, suburban area travel safety is stable. Accommodation prices will rise during tourism peak season, recommended to plan and book in advance. Prioritize choosing lots along old town to mound, convenient round-trip travel, can simultaneously connect old town attractions and prehistoric mound ruins."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Krakus Mound Prehistoric Ruins & Kraków Panoramic Scenery",
+    "captions": [
+      "Krakus Mound Panoramic View",
+      "Kraków Old Town Distant View",
+      "Vistula River Valley",
+      "Mound Top Platform",
+      "Forest Trail",
+      "Mound Sunset",
+      "Kraków City Panorama",
+      "Green Lawn"
+    ],
+    "showAll": "Show all photos",
+    "viewAll": "View more photos on Google Maps",
+    "photos": [
+      {"src": "/gallery/images (1).jpg", "alt": "Krakus Mound Panoramic View"},
+      {"src": "/gallery/images (2).jpg", "alt": "Kraków Old Town Distant View"},
+      {"src": "/gallery/images (3).jpg", "alt": "Vistula River Valley"},
+      {"src": "/gallery/images (4).jpg", "alt": "Mound Top Platform"},
+      {"src": "/gallery/images (5).jpg", "alt": "Forest Trail"},
+      {"src": "/gallery/images (6).jpg", "alt": "Mound Sunset"},
+      {"src": "/gallery/images (7).jpg", "alt": "Kraków City Panorama"},
+      {"src": "/gallery/images (8).jpg", "alt": "Green Lawn"},
+      {"src": "/gallery/images (9).jpg", "alt": "Mound Panorama"},
+      {"src": "/gallery/images (10).jpg", "alt": "Vistula River"},
+      {"src": "/gallery/images (11).jpg", "alt": "Kraków Scenery"},
+      {"src": "/gallery/images (12).jpg", "alt": "Mound Silhouette"},
+      {"src": "/gallery/images (13).jpg", "alt": "Nature Scenery"}
+    ]
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "moreReviewsUrl": "https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8",
+    "items": [
+      {
+        "name": "Traveler Xiaoya",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "The most unforgettable place in Kraków! Standing on the mound watching sunset, the entire old town is dyed golden, too romantic. The atmosphere of locals walking on the grass slope is also super great."
+      },
+      {
+        "name": "Photography Enthusiast Ajie",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "Photography holy land! Every angle is postcard-level scenery. Evening light is most beautiful, recommended to occupy good photo spot in advance."
+      },
+      {
+        "name": "European Backpacker Marek",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "Excellent place to escape crowds! Sat on the mound for an afternoon, watching clouds roll, too healing. Vistula River and city distant view are particularly beautiful."
+      },
+      {
+        "name": "Literary Youth Anna",
+        "date": "January 2026",
+        "rating": 5,
+        "text": "Compared to popular attractions, I prefer here. No overdevelopment, only quiet integration of nature and history. Mound and trails are very atmospheric."
+      }
+    ]
+  },
+  "siteName": "Krakus Mound",
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "30-543 Kraków, Poland",
+    "openMaps": "View on Google Maps",
+    "embedUrl": "https://maps.google.com/maps?q=30-543+Kraków,+Poland&output=embed",
+    "mapsUrl": "https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8"
+  },
+  "footer": {
+    "rights": "© 2026 Krakus Mound Independent Travel Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": [
+      { "name": "Ministry of Foreign Affairs Republic of Poland", "url": "https://www.gov.pl/" },
+      { "name": "Polish Tourism Organisation", "url": "https://www.poland.travel/en/" },
+      { "name": "National Institute of Cultural Heritage", "url": "https://nid.pl/" },
+      { "name": "Małopolska Tourist Information", "url": "https://www.malopolska.pl/" },
+      { "name": "Museum of Kraków", "url": "https://muzeumkrakowa.pl/" },
+      { "name": "Official Kraków Tourism", "url": "https://krakow.travel/" }
+    ],
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "officialManagement": {
+    "title": "About Krakus Mound",
+    "text": "Krakus Mound is one of the most important prehistoric cultural heritages in Kraków, and also a precious cultural site in Poland.\n\nAs the core landmark of Kraków city origin legend, Krakus Mound has witnessed more than two thousand years of changes and civilization evolution. Today, the scenic area is open to the public free of charge, offering an excellent destination for exploring Kraków prehistoric civilization and panoramic viewing, and an important window for visitors worldwide to experience Central European ancient cultural charm."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "Kraków Old Town", "url": "https://www.krakow.pl"},
+      {"name": "Wawel Castle", "url": "https://www.wawel.krakow.pl"},
+      {"name": "Vistula River", "url": "https://www.krakow.pl"},
+      {"name": "Kraków Market Square", "url": "https://www.krakow.pl"}
+    ],
+    "tours": [
+      {"name": "Kraków Old Town Deep Tour", "url": "https://www.krakow.pl"},
+      {"name": "Vistula River Walk", "url": "https://www.krakow.pl"},
+      {"name": "Castle District Guided Tour", "url": "https://www.wawel.krakow.pl"},
+      {"name": "City Panoramic Hiking", "url": "https://www.krakow.pl"}
+    ]
+  }
+}

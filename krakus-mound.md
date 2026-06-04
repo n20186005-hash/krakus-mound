@@ -1,3 +1,243 @@
+
+
+
+
+
+
+我们网站是
+
+krakusmound.com
+
+检查一遍看下是否有错误
+
+另外我们是单景点网站 是不是有冗余文件没清理干净
+
+
+
+
+
+
+
+
+
+
+
+
+
+Krakus Mound
+
+Kopiec Krakusa
+
+克拉科夫 波兰
+
+
+
+Krakus Mound
+
+Kopiec Kraka
+
+4.8(11,050)
+
+Historical landmark
+
+古迹地标
+
+
+
+30-543 Kraków, Poland
+
+
+
+2XQ5+69 Kraków, Poland
+
+
+
+单景点.com买域名推荐
+
+
+
+\### 表单逐项填写
+
+1\. \*\*国家/地区\*\*：波兰（Poland）
+
+2\. \*\*地址\\\*\*\*：Kopiec Kraka（Krakus Mound）
+
+3\. \*\*地址2\*\*：留空
+
+4\. \*\*城市\\\*\*\*：Kraków（克拉科夫）
+
+5\. \*\*省/自治区/直辖市\\\*\*\*：小波兰省（Małopolskie）
+
+6\. \*\*邮政编码\\\*\*\*：30-543
+
+
+
+
+
+
+
+克拉庫斯丘
+
+
+
+Krakus Mound
+
+Kopiec Krakusa
+
+克拉科夫 波兰
+
+
+
+Krakus Mound
+
+Kopiec Kraka
+
+4.8(11,050)
+
+Historical landmark
+
+古迹地标
+
+
+
+30-543 Kraków, Poland
+
+
+
+2XQ5+69 Kraków, Poland
+
+
+
+https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8
+
+
+
+
+
+首屏背景图要引用
+
+C:\\Users\\Administrator\\Documents\\GitHub\\krakus-mound\\public\\gallery\\images (1).jpg
+
+
+
+
+
+删除原先友情链接，新增以下友情链接
+
+波兰共和国外交与签证
+
+https://www.gov.pl/
+
+波兰国家旅游局
+
+https://www.poland.travel/en/
+
+波兰国家遗产研究院
+
+https://nid.pl/
+
+小波兰省旅游
+
+https://www.malopolska.pl/
+
+克拉科夫博物馆
+
+https://muzeumkrakowa.pl/
+
+克拉科夫官方旅游局
+
+https://krakow.travel/
+
+
+
+
+
+
+
+照片画廊
+
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+
+检查照片名称是否正确并修正
+
+
+
+在 Google Maps 查看
+
+改成
+
+在 Google Maps 查看更多照片
+
+
+
+
+
+删除 探索更多 板块
+
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8
+
+
+
+照片画廊
+
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8
+
+
+
+游客评价
+
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8
+
+
+
+地图位置
+
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8
+
+
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+
+
+
+
+
+
+
+
+新增
+
+
+
+波兰语
+
+俄语
+
+德语
+
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 你正在用（Next.js开发）
 为一个新景点【Krakus Mound】【krakusmound】构建静态/Next.js 单页指南网站。
 页面只需要支持中文和英文双语言
@@ -10,7 +250,7 @@
 
 1、
 
-首屏背景图要引用C:\Users\Administrator\Downloads\波兰\krakusmound\public\gallery\images (1).jpg
+首屏背景图要引用C:\\Users\\Administrator\\Downloads\\波兰\\krakusmound\\public\\gallery\\images (1).jpg
 
 2、
 基础信息纯 Markdown 格式・中英对照
@@ -59,3 +299,4 @@
 特色体验：老城区复古庭院式住宿，深度感受克拉科夫中欧老城风情
 预算之选：城郊交通沿线高性价比住宿，公共交通便利，出行成本更低
 【住宿补充说明】克拉科夫整体治安优良，城郊片区出行安全稳定。旅游旺季住宿价格会上浮，建议提前规划预订。优先选择老城至土丘沿线地段，出行往返便捷，可同时串联老城景点与史前土丘遗址。
+
