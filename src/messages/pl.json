@@ -5,6 +5,8 @@
   },
   "header": {
     "home": "Home",
+    "stories": "Legendy",
+    "facilities": "Udogodnienia",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
@@ -275,6 +277,80 @@
     ],
     "mapsUrl": "https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8"
   },
+  "facilities": {
+    "title": "Udogodnienia wokół kopca",
+    "intro": "Kopiec Krakusa leży na zalesionym wzgórzu w krakowskim Podgórzu; sam obiekt nie ma żadnych udogodnień komercyjnych. Poniższa lista ma charakter neutralny i opisuje wyłącznie typy usług — nie rekomendujemy ani nie promujemy żadnych konkretnych firm. Dostępność może się zmieniać, dlatego zweryfikuj ją na miejscu lub w oficjalnych źródłach.",
+    "noteTitle": "Neutralna informacja",
+    "noteContent": "Powyższy zestaw to wyłącznie informacja o typach usług, bez wskazywania konkretnych firm. Kopiec to otwarty teren zielony dostępny przez całą dobę; po zmroku obiekt nie jest oświetlony — zabierz własne oświetlenie i zachowaj ostrożność. Przed wizytą sprawdź aktualne godziny i dostępność usług na miejscu.",
+    "items": [
+      {
+        "name": "Toalety publiczne",
+        "desc": "Na kopcu i wzdłuż ścieżek nie ma stałych toalet publicznych. Skorzystaj z toalet w mieście lub u podnóża wzgórza; podczas wydarzeń sezonowych mogą pojawiać się toalety przenośne."
+      },
+      {
+        "name": "Parking",
+        "desc": "U podnóża wzgórza i na okolicznych ulicach znajduje się ograniczona liczba miejsc parkingowych — często bezpłatnych lub płatnych według strefy miejskiej. Na ścieżkę na szczyt nie można wjeżdżać samochodem; przyjedź wcześniej albo wybierz transport publiczny."
+      },
+      {
+        "name": "Gastronomia",
+        "desc": "Na szczycie i przy ścieżkach nie ma punktów gastronomicznych. W dzielnicach u podnóża znajdziesz małe kawiarnie, piekarnie i bary (typy lokali); więcej opcji oferują Stare Miasto i okolice Rynku Podgórskiego. Zabierz własną wodę i przekąski."
+      },
+      {
+        "name": "Noclegi",
+        "desc": "Okolice kopca to tereny mieszkalno-zielone, bez zakwaterowania na miejscu. Noclegi oferują Stare Miasto, Kazimierz lub Podgórze — hotele, pensjonaty i hostele, wszystkie w zasięgu krótkiej podróży transportem publicznym."
+      },
+      {
+        "name": "Sklepy i markety",
+        "desc": "U podnóża wzgórza i przy głównych ulicach działają małe supermarkety i sklepy spożywcze, gdzie kupisz wodę, przekąski i artykuły codziennego użytku; największe wybory zakupowe znajdują się w centrum miasta."
+      },
+      {
+        "name": "Stacje paliw i ładowanie EV",
+        "desc": "W ulicach tuż pod kopcem zwykle nie ma stacji paliw. Najbliższe stacje benzynowe i ładowarki samochodów elektrycznych znajdują się przy głównych drogach i obwodnicach prowadzących do centrum. Sprawdź poziom paliwa lub baterii przed wyjazdem."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Legendy i historia",
+    "intro": "Kopiec Krakusa to jeden z najbardziej tajemniczych zabytków Krakowa. Poniższe opowieści podzielono na trzy kategorie: legendy, tradycje lokalne i ustalenia historyczne. Legendy pokazują, jak miasto wyobraża sobie własną przeszłość, a historia oferuje jedynie częściowe dowody z wykopalisk i źródeł pisanych — oba rodzaje narracji są ważne i nie należy ich mylić.",
+    "badges": {
+      "legend": "Legenda",
+      "tradition": "Tradycja lokalna",
+      "history": "Ustalenia historyczne"
+    },
+    "stories": [
+      {
+        "title": "Legenda o grobie króla Krakusa",
+        "type": "legend",
+        "body": "Kronikarze średniowieczni — Wincenty Kadłubek w XII wieku i Jan Długosz w XV — zapisali tradycję, według której Krakus, legendarny założyciel Krakowa, został pochowany pod tym kopcem. Zanim archeologia mogła zweryfikować tę opowieść, wiara w królewski grób czyniła kopiec świętym miejscem pamięci i ofiar. Współcześni uczeni traktują ją raczej jako legendę o początkach miasta niż potwierdzoną historię."
+      },
+      {
+        "title": "Krakus i smok wawelski",
+        "type": "legend",
+        "body": "Najsłynniejsza legenda o początkach Krakowa opowiada o smoku mieszkającym pod Wawellem. W wielu wersjach potwór zostaje pokonany podstępem — baranią skórą wypchaną palącą się siarką — przez synów Kraka, samego króla albo skromnego ucznia szewca Skubę. Opowieść łączy pradziejowy kopiec, zamek wawelski i nazwę miasta (od Kraka) w jedną narrację, choć językoznawcy proponują też inne pochodzenie tej nazwy."
+      },
+      {
+        "title": "Rękawka — prastary festyn u stóp kopca",
+        "type": "tradition",
+        "body": "Do czasów nowożytnych w tygodniu po Wielkanocy mieszkańcy gromadzili się u stóp kopca na prastarym święcie Rękawki. Staczano z pochyłości jajka na twardo i jedzenie w obrzędzie uznawanym za pozostałość słowiańskiej stypy. Ludowe wyjaśnienie wiąże nazwę z rękawem — gdyż według legendy kopiec usypano, przenosząc ziemię w rękawach. Od początku XXI wieku lokalne grupy wskrzesiły tradycję jako inscenizacje historyczne z rzemiosłem i średniowiecznymi grami."
+      },
+      {
+        "title": "Wykopaliska i zagadka wieku kopca",
+        "type": "history",
+        "body": "Kopiec ma około 16 metrów wysokości i około 50 metrów średnicy u podstawy, należąc do największych pradziejowych nasypów tego typu w Polsce. Badania z XIX wieku i lat 30. XX wieku nie odkryły legendarnej komory grobowej, ale znalezione ceramika i ozdoby wskazują na działalność człowieka na wzgórzu w kilku okresach od epoki żelaza. Dokładna data powstania i pierwotna funkcja wciąż są przedmiotem dyskusji; większość badaczy zalicza go do przedchrześcijańskiej tradycji kopców grobowych i obrzędowych."
+      },
+      {
+        "title": "Kopiec Wandy — drugi kopiec miasta",
+        "type": "tradition",
+        "body": "Według legendy córka Krakusa, Wanda, rzuciła się do Wisły, aby nie poślubić obcego księcia; jej przypuszczalny grób to kolejny pradziejowy kopiec — Kopiec Wandy, dziś w krakowskiej Nowej Hucie. Dwa starożytne nasypy wyznaczają mity założycielskie miasta z przeciwległych stron jego rzecznego krajobrazu. Legendy nie są faktem, ale tłumaczą, dlaczego pamięć ludowa łączy największe pradziejowe kopce Polski z królami, królowymi i narodzinami miasta."
+      },
+      {
+        "title": "Legenda o tajnym tunelu do Wawelu",
+        "type": "legend",
+        "body": "Jak wiele starożytnych pomników, kopiec ma w folklorze ukryty podziemny korytarz, w niektórych wersjach sięgający aż do Wawelu. Opowieści o sekretnych tunelach to częsty motyw europejskich legend, tłumaczący zagadkowe budowle; tej wersji nie potwierdzają żadne badania archeologiczne, odzwierciedla ona jednak wyobraźnię ludową łączącą kopiec z królewskim zamkiem."
+      }
+    ],
+    "note": "Uwaga o źródłach: legendy, tradycje i ustalenia historyczne należą do różnych kategorii — staramy się je odpowiednio oznaczać. Co do datowania, wymiarów i warunków na miejscu, opieraj się na tablicach informacyjnych przy kopcu oraz oficjalnych źródłach krakowskiej turystyki."
+  },
   "reviews": {
     "title": "Visitor Reviews",
     "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
@@ -306,6 +382,51 @@
         "text": "Compared to popular attractions, I prefer here. No overdevelopment, only quiet integration of nature and history. Mound and trails are very atmospheric."
       }
     ]
+  },
+  "weather": {
+    "title": "Pogoda na żywo i prognoza dla Kopca Krakusa",
+    "currentTitle": "Aktualna pogoda",
+    "forecastTitle": "Prognoza na 7 dni",
+    "today": "Dziś",
+    "feelsLike": "Odczuwalna",
+    "humidity": "Wilgotność",
+    "wind": "Wiatr",
+    "sunrise": "Wschód słońca",
+    "sunset": "Zachód słońca",
+    "precip": "Prawdopodobieństwo opadów",
+    "updated": "Dane pogodowe: Open-Meteo, aktualizowane co godzinę.",
+    "fallbackTitle": "Dane pogodowe są chwilowo niedostępne",
+    "fallbackBody": "Kopiec Krakusa to otwarty teren dostępny całą dobę. Przed wizytą sprawdź aktualną prognozę dla Krakowa.",
+    "codes": {
+      "c0": "Bezchmurnie",
+      "c1": "Przeważnie bezchmurnie",
+      "c2": "Częściowe zachmurzenie",
+      "c3": "Zachmurzenie całkowite",
+      "c45": "Mgła",
+      "c48": "Mgła z szadzią",
+      "c51": "Słaba mżawka",
+      "c53": "Mżawka",
+      "c55": "Gęsta mżawka",
+      "c56": "Słaba marznąca mżawka",
+      "c57": "Gęsta marznąca mżawka",
+      "c61": "Słaby deszcz",
+      "c63": "Deszcz",
+      "c65": "Silny deszcz",
+      "c66": "Słaby marznący deszcz",
+      "c67": "Silny marznący deszcz",
+      "c71": "Słabe opady śniegu",
+      "c73": "Opady śniegu",
+      "c75": "Intensywne opady śniegu",
+      "c77": "Kasza śnieżna",
+      "c80": "Słabe przelotne opady deszczu",
+      "c81": "Przelotne opady deszczu",
+      "c82": "Gwałtowne przelotne opady deszczu",
+      "c85": "Słabe przelotne opady śniegu",
+      "c86": "Silne przelotne opady śniegu",
+      "c95": "Burza",
+      "c96": "Burza z lekkim gradem",
+      "c99": "Burza z silnym gradem"
+    }
   },
   "mapSection": {
     "title": "How to Get Here",

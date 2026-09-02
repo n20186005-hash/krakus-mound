@@ -69,6 +69,11 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Offset anchor scrolling below the fixed header */
+section[id] {
+  scroll-margin-top: 4.5rem;
+}
+
 body {
   font-family: var(--font-body);
   background-color: var(--bg-primary);

@@ -12,6 +12,8 @@ export default function Hero() {
           src={imageSrc}
           alt={t('title')}
           className="w-full h-full object-cover"
+          fetchPriority="high"
+          decoding="async"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

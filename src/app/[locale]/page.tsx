@@ -7,11 +7,14 @@ import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
 import InfoSection from '@/components/InfoSection';
+import StoriesSection from '@/components/StoriesSection';
 import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
 import HotelsSection from '@/components/HotelsSection';
+import FacilitiesSection from '@/components/FacilitiesSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
+import WeatherSection from '@/components/WeatherSection';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
 
@@ -34,11 +37,14 @@ export default async function HomePage({
         <TicketsSection />
         <TransportSection />
         <InfoSection />
+        <StoriesSection />
         <RouteSection />
         <PhotoSpotsSection />
         <HotelsSection />
+        <FacilitiesSection />
         <Gallery />
         <Reviews />
+        <WeatherSection />
         <MapEmbed />
       </main>
       <Footer />

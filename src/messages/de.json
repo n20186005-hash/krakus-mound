@@ -5,6 +5,8 @@
   },
   "header": {
     "home": "Home",
+    "stories": "Legenden",
+    "facilities": "Einrichtungen",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
@@ -275,6 +277,80 @@
     ],
     "mapsUrl": "https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8"
   },
+  "facilities": {
+    "title": "Einrichtungen rund um den Hügel",
+    "intro": "Der Krakus-Hügel liegt auf einem bewaldeten Hügel im Krakauer Stadtteil Podgórze; das Gelände selbst bietet keinerlei kommerzielle Einrichtungen. Die folgende Liste ist bewusst neutral und beschreibt nur Servicetypen – wir empfehlen und bewerben keine einzelnen Anbieter. Verfügbarkeit und Öffnungszeiten können sich jederzeit ändern; bitte prüfe sie vor Ort oder über offizielle Quellen.",
+    "noteTitle": "Neutraler Hinweis",
+    "noteContent": "Dies ist lediglich eine typbasierte Übersicht ohne konkrete Anbieterempfehlungen. Der Hügel ist ein offenes, rund um die Uhr zugängliches Gelände; nach Einbruch der Dunkelheit ist der Bereich unbeleuchtet – bring eigene Beleuchtung mit und sei vorsichtig. Prüfe die aktuellen Bedingungen vor deinem Besuch vor Ort.",
+    "items": [
+      {
+        "name": "Öffentliche Toiletten",
+        "desc": "Am Hügel und entlang der Wege gibt es keine festen öffentlichen Toiletten. Plane deinen Besuch entsprechend und nutze öffentliche Toiletten in der Stadt oder am Fuß des Hügels; bei saisonalen Veranstaltungen können mobile Toiletten aufgestellt werden."
+      },
+      {
+        "name": "Parken",
+        "desc": "Am Fuß des Hügels und in den umliegenden Straßen gibt es nur begrenzte Parkmöglichkeiten am Straßenrand – oft kostenlos oder nach städtischem Tarif. Autos sind auf dem Weg zur Spitze nicht erlaubt; komm früh oder nutze lieber öffentliche Verkehrsmittel."
+      },
+      {
+        "name": "Essen und Trinken",
+        "desc": "Auf dem Gipfel und an den Wegen gibt es keine Gastronomie. In den Vierteln am Fuß des Hügels findest du kleine Cafés, Bäckereien und Imbisse (Typen von Lokalen); mehr Auswahl bieten die Altstadt und der Platz am Podgórze-Markt. Bring dir Wasser und Snacks mit."
+      },
+      {
+        "name": "Übernachtung",
+        "desc": "Das Viertel rund um den Hügel ist eine Mischung aus Wohn- und Grünflächen, ohne Unterkünfte direkt am Objekt. Übernachtungen bieten die Altstadt, Kazimierz oder Podgórze – Hotels, Pensionen und Hostels, alle mit kurzer Fahrt mit öffentlichen Verkehrsmitteln erreichbar."
+      },
+      {
+        "name": "Geschäfte",
+        "desc": "Am Fuß des Hügels und entlang der Hauptstraßen gibt es kleine Supermärkte und Nahversorger mit Wasser, Snacks und Waren des täglichen Bedarfs; die größte Auswahl findest du in der Innenstadt."
+      },
+      {
+        "name": "Tankstellen und E-Ladestationen",
+        "desc": "In den Straßen direkt unter dem Hügel gibt es in der Regel keine Tankstellen. Die nächsten Tankstellen und Ladestationen für Elektroautos liegen an den Haupt- und Ringstraßen Richtung Innenstadt. Prüfe vor der Abfahrt den Tank- bzw. Akkustand."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Legenden und Geschichte",
+    "intro": "Der Krakus-Hügel ist eines der geheimnisvollsten historischen Wahrzeichen Krakaus. Die folgenden Geschichten sind in drei Kategorien unterteilt: Legenden, lokale Traditionen und historische Erkenntnisse. Legenden zeigen, wie sich die Stadt ihre eigene Vergangenheit vorstellt und erinnert; die Geschichte bietet nur teilweise Belege aus Archäologie und Schriftquellen – beides ist wichtig und sollte nicht verwechselt werden.",
+    "badges": {
+      "legend": "Legende",
+      "tradition": "Lokale Tradition",
+      "history": "Historische Überlieferung"
+    },
+    "stories": [
+      {
+        "title": "Die Legende vom Grab des Königs",
+        "type": "legend",
+        "body": "Mittelalterliche Chronisten – Wincenty Kadłubek im 12. und Jan Długosz im 15. Jahrhundert – überliefern die Tradition, dass unter diesem Hügel Krakus (Krak), der legendäre Gründer Krakaus, bestattet wurde. Lange bevor die Archäologie dies prüfen konnte, machte der Glaube an ein Königsgrab den Erdwall zu einem heiligen Ort des Gedenkens und der Opfergaben. Heutige Wissenschaftler betrachten die Erzählung eher als Ursprungslegende der Stadt denn als gesicherte Geschichte."
+      },
+      {
+        "title": "Krakus und der Wawel-Drache",
+        "type": "legend",
+        "body": "Die bekannteste Gründungssage Krakaus erzählt von einem Drachen, der unter dem Wawel-Hügel hauste. In vielen Fassungen wird das Untier durch eine List besiegt – ein mit brennendem Schwefel gefülltes Schaffell, als Schaf angeboten –, und zwar durch die Söhne des Krak, durch den König selbst oder durch einen bescheidenen Schuhmacherlehrling namens Skuba. Die Sage verbindet den urzeitlichen Hügel, das Wawel-Schloss und den Namen der Stadt (von Krak) zu einer Geschichte, auch wenn Sprachwissenschaftler andere Namensursprünge vorschlagen."
+      },
+      {
+        "title": "Rękawka – ein altes Fest am Hügel",
+        "type": "tradition",
+        "body": "Bis in die Neuzeit versammelten sich in der Woche nach Ostern Menschen am Fuß des Hügels zum alten Fest Rękawka. Man rollte hartgekochte Eier und Speisen den Hang hinab – ein Brauch, der weithin als Überbleibsel des slawischen Totenmahls (stypa) gilt. Eine volkstümliche Deutung verbindet den Namen mit dem Ärmel (rękaw): Der Hügel sei der Sage nach entstanden, weil Menschen Erde in ihren Ärmeln trugen. Seit den frühen 2000er-Jahren beleben lokale Gruppen die Tradition als historische Nachstellungen mit Handwerk und mittelalterlichen Spielen neu."
+      },
+      {
+        "title": "Ausgrabungen und das Rätsel des Alters",
+        "type": "history",
+        "body": "Mit etwa 16 Metern Höhe und rund 50 Metern Durchmesser an der Basis gehört der Hügel zu den größten urzeitlichen Erdwerken dieser Art in Polen. Ausgrabungen im 19. Jahrhundert und in den 1930er-Jahren fanden keine legendäre Grabkammer; Keramik, Schmuck und andere Funde weisen jedoch auf menschliche Aktivität am Hügel in mehreren Epochen seit der Eisenzeit hin. Das genaue Entstehungsdatum und die ursprüngliche Funktion bleiben umstritten; die meisten Fachleute ordnen den Hügel der vorchristlichen Tradition von Grab- und Kultstätten zu."
+      },
+      {
+        "title": "Der Wanda-Hügel – der zweite Hügel der Stadt",
+        "type": "tradition",
+        "body": "Der Legende nach ertränkte sich Krakus' Tochter Wanda in der Weichsel, statt einen fremden Fürsten zu heiraten; ihr vermutetes Grab ist ein weiterer urzeitlicher Hügel – der Wanda-Hügel, heute im Krakauer Stadtteil Nowa Huta. Die beiden antiken Erdwerke rahmen die Gründungsmythen der Stadt von gegenüberliegenden Seiten ihrer Flusslandschaft ein. Legenden sind keine Fakten, aber sie erklären, warum die Volkserinnerung die größten urzeitlichen Hügel Polens mit Königen, Königinnen und der Geburt einer Stadt verbindet."
+      },
+      {
+        "title": "Die Legende vom geheimen Tunnel zum Wawel",
+        "type": "legend",
+        "body": "Wie viele antike Denkmäler soll auch dieser Hügel in der Volksüberlieferung einen unterirdischen Gang verbergen; in manchen Versionen führt er bis zum Wawel. Geheimgang-Erzählungen sind ein häufiges Motiv europäischer Legenden, mit dem rätselhafte Bauwerke erklärt werden; archäologische Belege dafür gibt es nicht – die Sage spiegelt aber die Volksfantasie, die den Hügel mit dem Königsschloss verbindet."
+      }
+    ],
+    "note": "Hinweis zu den Quellen: Legenden, Traditionen und historische Erkenntnisse gehören in unterschiedliche Kategorien; wir bemühen uns, jede Geschichte entsprechend zu kennzeichnen. Zur Datierung, zu den Maßen und zum Zustand des Denkmals gelten die Informationstafeln am Hügel und die offiziellen Quellen der Krakauer Tourismusinformation."
+  },
   "reviews": {
     "title": "Visitor Reviews",
     "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
@@ -306,6 +382,51 @@
         "text": "Compared to popular attractions, I prefer here. No overdevelopment, only quiet integration of nature and history. Mound and trails are very atmospheric."
       }
     ]
+  },
+  "weather": {
+    "title": "Live-Wetter und Vorhersage am Krakus-Hügel",
+    "currentTitle": "Aktuelles Wetter",
+    "forecastTitle": "7-Tage-Vorhersage",
+    "today": "Heute",
+    "feelsLike": "Gefühlt",
+    "humidity": "Luftfeuchtigkeit",
+    "wind": "Wind",
+    "sunrise": "Sonnenaufgang",
+    "sunset": "Sonnenuntergang",
+    "precip": "Niederschlagswahrscheinlichkeit",
+    "updated": "Wetterdaten: Open-Meteo, stündlich aktualisiert.",
+    "fallbackTitle": "Wetterdaten derzeit nicht verfügbar",
+    "fallbackBody": "Der Krakus-Hügel ist ein frei zugängliches Freigelände und ganzjährig geöffnet. Prüfe vor deinem Besuch die aktuelle Wettervorhersage für Krakau.",
+    "codes": {
+      "c0": "Klarer Himmel",
+      "c1": "Überwiegend klar",
+      "c2": "Teilweise bewölkt",
+      "c3": "Bedeckt",
+      "c45": "Nebel",
+      "c48": "Gefrierender Nebel (Raureif)",
+      "c51": "Leichter Nieselregen",
+      "c53": "Nieselregen",
+      "c55": "Starker Nieselregen",
+      "c56": "Leichter gefrierender Nieselregen",
+      "c57": "Starker gefrierender Nieselregen",
+      "c61": "Leichter Regen",
+      "c63": "Regen",
+      "c65": "Starker Regen",
+      "c66": "Leichter gefrierender Regen",
+      "c67": "Starker gefrierender Regen",
+      "c71": "Leichter Schneefall",
+      "c73": "Schneefall",
+      "c75": "Starker Schneefall",
+      "c77": "Schneegriesel",
+      "c80": "Leichte Regenschauer",
+      "c81": "Regenschauer",
+      "c82": "Kräftige Regenschauer",
+      "c85": "Leichte Schneeschauer",
+      "c86": "Starke Schneeschauer",
+      "c95": "Gewitter",
+      "c96": "Gewitter mit leichtem Hagel",
+      "c99": "Gewitter mit starkem Hagel"
+    }
   },
   "mapSection": {
     "title": "How to Get Here",

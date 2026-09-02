@@ -6,6 +6,8 @@
   "header": {
     "siteName": "Krakus Mound",
     "home": "Home",
+    "stories": "Stories",
+    "facilities": "Facilities",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
@@ -275,6 +277,80 @@
     ],
     "mapsUrl": "https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8"
   },
+  "facilities": {
+    "title": "Facilities Around the Mound",
+    "intro": "Krakus Mound stands on a wooded hill in Kraków's Podgórze district, and the site itself has no commercial facilities. The list below is a neutral, type-based reference only: we do not recommend or endorse any specific business. Availability may change at any time — please confirm on site or via official sources.",
+    "noteTitle": "Neutral note",
+    "noteContent": "This is a type-based reference without any specific business endorsements. The mound is an open-air green area accessible 24/7; after dark the site is unlit, so bring your own light and take care. Confirm opening and availability on site before your visit.",
+    "items": [
+      {
+        "name": "Public toilets",
+        "desc": "There are no permanent public toilets on the mound or along the trail. Plan ahead and use public facilities in the city or at the foot of the hill; temporary toilets may appear during seasonal events."
+      },
+      {
+        "name": "Parking",
+        "desc": "A limited number of roadside parking spots can be found on the streets around the foot of the hill — often free or charged at the municipal rate. Vehicles are not allowed on the path to the summit; arrive early or prefer public transport."
+      },
+      {
+        "name": "Food & drink",
+        "desc": "No food outlets exist on the summit or along the trails. Small cafés, bakeries and eateries (by type) can be found in the streets below, with more choice around the Old Town and Podgórze squares. Bring your own water and snacks."
+      },
+      {
+        "name": "Accommodation",
+        "desc": "The district around the mound is a mix of housing and green space with no on-site accommodation. Overnight stays are available in the Old Town, Kazimierz or Podgórze — hotels, guesthouses and hostels, all a short public-transport ride away."
+      },
+      {
+        "name": "Shops & convenience stores",
+        "desc": "Small supermarkets and convenience stores along the foot of the hill and the main roads can supply water, snacks and daily goods; the largest shopping options are in the city centre."
+      },
+      {
+        "name": "Fuel & EV charging",
+        "desc": "There are usually no petrol stations in the streets right below the mound. The nearest petrol stations and EV chargers are on the main roads and ring roads leading into the city. Check your fuel or battery level before driving out."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Legends & History",
+    "intro": "Krakus Mound is one of Kraków's most mysterious historic landmarks. The stories below are grouped into three categories: legends, local traditions and historical findings. Legends show how the city imagines and remembers itself, while history offers only partial evidence from archaeology and written records — both deserve attention, and should not be confused.",
+    "badges": {
+      "legend": "Legend",
+      "tradition": "Local tradition",
+      "history": "Historical record"
+    },
+    "stories": [
+      {
+        "title": "The Legend of the King's Grave",
+        "type": "legend",
+        "body": "Medieval chroniclers — Wincenty Kadłubek in the 12th century and Jan Długosz in the 15th — record the tradition that Krakus (Krak), the legendary founder of Kraków, was buried beneath this mound. Long before archaeology could test the claim, the belief that a king rested here made the earthwork a sacred place of remembrance and offerings. Scholars today treat the story as an origin legend rather than established history."
+      },
+      {
+        "title": "Krakus and the Wawel Dragon",
+        "type": "legend",
+        "body": "The best-known founding tale of Kraków tells of a dragon that lurked beneath Wawel Hill. In its many versions, the monster is defeated by a trick — a sheepskin stuffed with burning sulphur, offered as a sheep — by Krak's sons, by the king himself, or by a humble shoemaker's apprentice named Skuba. The tale weaves the prehistoric mound, Wawel Castle and the city's name (from Krak) into a single story, although linguists also propose other origins for the name."
+      },
+      {
+        "title": "Rękawka — an Ancient Festival at the Mound",
+        "type": "tradition",
+        "body": "Until modern times, crowds gathered at the foot of the mound in the week after Easter for the ancient festival of Rękawka. People rolled hard-boiled eggs and food down the slopes in a rite widely seen as a survival of the Slavic memorial feast (stypa). One folk explanation links the name to the sleeve (rękaw), recalling the legend that the mound was raised by people carrying earth in their sleeves. Since the early 2000s, local groups have revived the tradition as historical re-enactments with crafts and medieval games."
+      },
+      {
+        "title": "Excavations and the Mystery of Its Age",
+        "type": "history",
+        "body": "About 16 metres high and some 50 metres across at its base, the mound is one of the largest prehistoric earthworks of its kind in Poland. Excavations in the 19th century and again in the 1930s found no royal tomb, but pottery, ornaments and other finds point to human activity on the hill in several periods from the Iron Age onward. Its exact date and original purpose remain debated; most scholars still place it in the pre-Christian tradition of burial and ritual mounds."
+      },
+      {
+        "title": "Wanda Mound — the City's Other Mound",
+        "type": "tradition",
+        "body": "According to legend, Krakus's daughter Wanda drowned herself in the Vistula rather than marry a foreign suitor, and her supposed grave is another prehistoric mound — Wanda Mound, today in the Nowa Huta district of Kraków. The two ancient earthworks frame the city's founding myths from opposite sides of its river landscape. Legends are not facts, but they explain why folk memory ties Poland's largest prehistoric mounds to kings, queens and the birth of a city."
+      },
+      {
+        "title": "The Legend of a Secret Tunnel to Wawel",
+        "type": "legend",
+        "body": "Like many ancient monuments, the mound is said in folklore to hide a subterranean passage, with some versions claiming it once ran as far as Wawel. Secret-tunnel tales are a common motif in European legend, often used to explain mysterious structures; no archaeological evidence supports this one, but it reflects the popular imagination that links the mound with the royal castle."
+      }
+    ],
+    "note": "A note on sources: legends, traditions and historical findings belong to different categories, and we have tried to label each story accordingly. For the mound's dating, dimensions and on-site conditions, please rely on the information panels at the site and official Kraków tourism sources."
+  },
   "reviews": {
     "title": "Visitor Reviews",
     "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
@@ -308,6 +384,51 @@
     ]
   },
   "siteName": "Krakus Mound",
+  "weather": {
+    "title": "Weather at Krakus Mound",
+    "currentTitle": "Current Conditions",
+    "forecastTitle": "7-Day Forecast",
+    "today": "Today",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "precip": "Precipitation probability",
+    "updated": "Live weather data by Open-Meteo, updated every hour.",
+    "fallbackTitle": "Weather data is temporarily unavailable",
+    "fallbackBody": "Krakus Mound is an open-air site that can be visited around the clock. Please check the latest local forecast in Kraków before setting off.",
+    "codes": {
+      "c0": "Clear sky",
+      "c1": "Mainly clear",
+      "c2": "Partly cloudy",
+      "c3": "Overcast",
+      "c45": "Fog",
+      "c48": "Depositing rime fog",
+      "c51": "Light drizzle",
+      "c53": "Drizzle",
+      "c55": "Dense drizzle",
+      "c56": "Light freezing drizzle",
+      "c57": "Dense freezing drizzle",
+      "c61": "Light rain",
+      "c63": "Rain",
+      "c65": "Heavy rain",
+      "c66": "Light freezing rain",
+      "c67": "Heavy freezing rain",
+      "c71": "Light snow",
+      "c73": "Snow",
+      "c75": "Heavy snow",
+      "c77": "Snow grains",
+      "c80": "Light rain showers",
+      "c81": "Rain showers",
+      "c82": "Violent rain showers",
+      "c85": "Light snow showers",
+      "c86": "Heavy snow showers",
+      "c95": "Thunderstorm",
+      "c96": "Thunderstorm with slight hail",
+      "c99": "Thunderstorm with heavy hail"
+    }
+  },
   "mapSection": {
     "title": "How to Get Here",
     "subtitle": "30-543 Kraków, Poland",
