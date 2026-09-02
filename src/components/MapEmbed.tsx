@@ -1,8 +1,11 @@
 import { useTranslations } from 'next-intl';
 
+const FALLBACK_EMBED_URL =
+  'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d18231.640029756818!2d19.9481142!3d50.0380942!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b5116eb7d0f%3A0x76735d35fb48c49b!2z5YWL5ouJ5bqr5pav5LiY!5e1!3m2!1szh-CN!2s!4v1788336053275!5m2!1szh-CN!2s';
+
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
-  const mapUrl = t('embedUrl') || 'https://maps.google.com/maps?q=Aleja+Jerzego+Waszyngtona,+30-204+Kraków,+Poland&output=embed';
+  const mapUrl = t('embedUrl') || FALLBACK_EMBED_URL;
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -28,7 +31,7 @@ export default function MapEmbed() {
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title={`Google Maps - ${t('title')}`}
           />
         </div>
@@ -54,6 +57,20 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* Official tourism authority link */}
+        <p className="mt-6 text-center text-sm" style={{ color: 'var(--text-muted)' }}>
+          {t('authorityLabel')}{' '}
+          <a
+            href={t('authorityUrl') || 'https://www.poland.travel/en'}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline font-medium"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('authorityText')}
+          </a>
+        </p>
       </div>
     </section>
   );

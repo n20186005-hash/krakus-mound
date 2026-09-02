@@ -1,30 +1,32 @@
 {
   "meta": {
-    "title": "Krakus Mound｜Kraków Prehistoric Burial Mound & Panoramic Viewpoint",
-    "description": "Complete guide to Krakus Mound in Poland. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Prehistoric burial mound, historic earthwork, panoramic viewpoint, cultural heritage."
+    "title": "Krakus-Hügel (Krakau) – Reiseführer & Lage",
+    "description": "Entdecken Sie den Krakus-Hügel (Kopiec Krakusa), den vorgeschichtlichen Grabhügel und Aussichtspunkt in Krakau (Woiwodschaft Kleinpolen). Kostenlos rund um die Uhr: Karte, Öffnungszeiten, Anreise und Tipps."
   },
   "header": {
-    "home": "Home",
+    "home": "Startseite",
     "stories": "Legenden",
     "facilities": "Einrichtungen",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home",
-    "siteName": "Krakus Mound"
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "map": "Karte",
+    "backToHome": "Zur眉ck zur Startseite",
+    "siteName": "Krakus Mound",
+    "faq": "FAQ"
   },
   "hero": {
-    "title": "Krakus Mound",
-    "subtitle": "Kraków Prehistoric Burial Mound・Panoramic Viewpoint & Cultural Heritage",
+    "title": "Krakus-Hügel (Krakau)",
+    "subtitle": "Vorgeschichtlicher Grabhügel Krakaus・Aussichtspunkt und Kulturerbe",
     "rating": "4.8",
-    "reviewCount": "11,050",
-    "hours": "Open 24/7",
-    "openMaps": "View Location",
-    "imageSrc": "/gallery/images (1).jpg"
+    "reviewCount": "11,297",
+    "hours": "Rund um die Uhr geöffnet",
+    "openMaps": "Auf der Karte ansehen",
+    "imageSrc": "/gallery/images (1).jpg",
+    "imgAlt": "Krakus-Hügel – vorgeschichtlicher Grabhügel in Krakau, Polen"
   },
   "intro": {
     "title": "Discover Krakus Mound",
-    "description": "The moment you climb to the top of Krakus Mound, you'll be instantly moved by the primal and vast atmosphere. Unlike exquisite man-made monuments, this thousand-year-old earth mound sits quietly in the suburbs of Kraków, covered with grass and plants, with wind sweeping through the wild grass, carrying a profound sense of ancient history. I visited at dusk, when the entire mound is quiet and soothing, far from the hustle and bustle of the old town, surrounded by lush greenery, with views stretching outward.\n\nWalking slowly along the gentle slope trail to the summit, the entire city of Kraków unfolds before your eyes, with continuous red-roofed old town, winding river and distant mountains complementing each other, with transparent and healing views. There aren't many people on the mound, with occasional visitors walking quietly and waiting for sunset, no commercial stalls, only pure natural wilderness and ancient ruins.\n\nHere hides the oldest legend of the city. Every inch of rammed earth under your feet bears the traces left by prehistoric civilization. Standing at the top of the highland and looking into the distance, you can feel the mysterious atmosphere of ancient legends while overlooking the daily life of the modern city, where ancient and modern gently intersect.\n\nWhen the sunset slowly descends, warm yellow light spreads across the entire wilderness, the outline of the mound becomes soft and long, and the city tone becomes gentle and hazy. At this moment, you'll understand why locals prefer to come here to relax. The ancient mound is not just a historical site, but also the quietest viewing secret and spiritual sanctuary of the city.",
+    "description": "The moment you climb to the top of Krakus Mound, you'll be instantly moved by the primal and vast atmosphere. Unlike exquisite man-made monuments, this thousand-year-old earth mound sits quietly in the suburbs of Kraków, covered with grass and plants, with wind sweeping through the wild grass, carrying a profound sense of ancient history. I visited at dusk, when the entire mound is quiet and soothing, far from the hustle and bustle of the old town, surrounded by lush greenery, with views stretching outward.\n\nWalking slowly along the gentle slope trail to the summit, the entire city of Kraków unfolds before your eyes, with continuous red-roofed old town, winding river and distant mountains complementing each other, with transparent and healing views. There aren't many people on the mound, with occasional visitors walking quietly and waiting for sunset, no commercial stalls, only pure natural wilderness and ancient ruins.\n\nHere hides the oldest legend of the city. Every inch of rammed earth under your feet bears the traces left by prehistoric civilization. Standing at the top of the highland and looking into the distance, you can feel the mysterious atmosphere of ancient legends while overlooking the daily life of the modern city, where ancient and modern gently intersect.\n\nWhen the sunset slowly descends, warm yellow light spreads across the entire wilderness, the outline of the mound becomes soft and long, and the city tone becomes gentle and hazy. At this moment, you'll understand why locals prefer to come here to relax. The ancient mound is not just a historical site, but also the quietest viewing secret and spiritual sanctuary of the city. Bei einem Besuch des Krakus-Hügels lassen sich auch die nahe gelegenen Sehenswürdigkeiten erkunden – den sagenhaften Wanda-Hügel (Kopiec Wandy) und die Oskar-Schindler-Fabrik, beide im Stadtteil Podgórze.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -70,23 +72,23 @@
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
+    "title": "Grundinformationen",
+    "officialName": "Offizieller Name",
     "officialNameValue": "Kopiec Krakusa",
-    "type": "Attraction Type",
-    "typeValue": "Historical landmark",
-    "country": "Country",
-    "countryValue": "Poland",
-    "city": "City",
-    "cityValue": "Kraków",
-    "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (11,050)",
+    "type": "Art der Sehenswürdigkeit",
+    "typeValue": "Historisches Wahrzeichen",
+    "country": "Land",
+    "countryValue": "Polen",
+    "city": "Stadt",
+    "cityValue": "Krakau",
+    "googleRating": "Google-Bewertung",
+    "googleRatingValue": "4.8 (11,297)",
     "phone": "Phone",
     "phoneValue": "",
-    "address": "Address",
-    "addressValue": "30-543 Kraków, Poland",
+    "address": "Adresse",
+    "addressValue": "30-543 Krakau, Polen",
     "plusCode": "Plus Code",
-    "plusCodeValue": "2XQ5+69 Kraków, Poland"
+    "plusCodeValue": "2XQ5+69 Krakau, Polen"
   },
   "hours": {
     "title": "Opening Hours",
@@ -429,18 +431,21 @@
     }
   },
   "mapSection": {
-    "title": "How to Get Here",
-    "subtitle": "30-543 Kraków, Poland",
-    "openMaps": "View on Google Maps",
-    "embedUrl": "https://maps.google.com/maps?q=30-543+Kraków,+Poland&output=embed",
-    "mapsUrl": "https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8"
+    "title": "Anreise & Lage",
+    "subtitle": "30-543 Krakau, Polen",
+    "openMaps": "In Google Maps ansehen",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d18231.640029756818!2d19.9481142!3d50.0380942!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b5116eb7d0f%3A0x76735d35fb48c49b!2z5YWL5ouJ5bqr5pav5LiY!5e1!3m2!1szh-CN!2s!4v1788336053275!5m2!1szh-CN!2s",
+    "mapsUrl": "https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8",
+    "authorityLabel": "Offizielle Tourismusinformationen:",
+    "authorityText": "Poland Travel",
+    "authorityUrl": "https://www.poland.travel/en"
   },
   "footer": {
-    "rights": "© 2026 Krakus Mound Independent Travel Research Association · All rights reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
+    "rights": "漏 2026 Krakus Mound 路 Unabh盲ngiger Informationsf眉hrer. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzerkl盲rung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen",
+    "officialResourcesTitle": "Verwandte Ressourcen & Informationen",
     "officialLinks": [
       {
         "name": "Ministry of Foreign Affairs Republic of Poland",
@@ -468,7 +473,8 @@
       }
     ],
     "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
-    "siteName": "Krakus Mound"
+    "siteName": "Krakus Mound",
+    "photoCredit": "Alle auf dieser Website gezeigten Fotos verbleiben im Eigentum ihrer Fotografen."
   },
   "officialManagement": {
     "title": "About Krakus Mound",
@@ -476,7 +482,7 @@
   },
   "privacy": {
     "title": "Datenschutzerklärung",
-    "lastUpdated": "Letzte Aktualisierung: Mai 2026",
+    "lastUpdated": "Zuletzt aktualisiert: 2. September 2026",
     "sections": [
       {
         "heading": "Informationen, die wir sammeln",
@@ -498,7 +504,7 @@
   },
   "terms": {
     "title": "Nutzungsbedingungen",
-    "lastUpdated": "Letzte Aktualisierung: Mai 2026",
+    "lastUpdated": "Zuletzt aktualisiert: 2. September 2026",
     "sections": [
       {
         "heading": "Zugang und Nutzung",
@@ -545,5 +551,66 @@
     "save": "Einstellungen speichern",
     "saved": "Gespeichert",
     "rejectAll": "Alle ablehnen"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "intro": "Schnelle Antworten zu Lage, Eintritt und Besuch des Krakus-Hügels.",
+    "items": [
+      {
+        "q": "Wo liegt der Krakus-Hügel?",
+        "a": "Der Krakus-Hügel erhebt sich auf einem Hügel im Stadtteil Podgórze in Krakau (PLZ 30-543), Woiwodschaft Kleinpolen, Polen — etwa 3 km südlich der Altstadt."
+      },
+      {
+        "q": "Ist der Besuch des Krakus-Hügels kostenlos?",
+        "a": "Ja, der Hügel ist ein öffentliches archäologisches Denkmal; der Eintritt ist frei, das Gelände ist ganzjährig rund um die Uhr zugänglich."
+      },
+      {
+        "q": "Wie kommt man zum Krakus-Hügel?",
+        "a": "Von der Krakauer Altstadt erreichen Sie den Hügel zu Fuß in etwa 30–40 Minuten oder mit der Straßenbahn beziehungsweise dem Bus Richtung Podgórze und anschließend zu Fuß bergauf; mit dem Auto parken Sie in der Nähe und folgen dem Wanderweg zum Gipfel."
+      },
+      {
+        "q": "Was sieht man von der Spitze des Krakus-Hügels?",
+        "a": "Vom Gipfel haben Sie ein 360°-Panorama über Krakau – die Wawel-Burg, die Silhouette der Altstadt, die Weichsel und die umliegenden Hügel; ideal für Fotos und Sonnenuntergänge."
+      },
+      {
+        "q": "Wann und warum wurde der Krakus-Hügel erbaut?",
+        "a": "Archäologische Untersuchungen datieren den Hügel auf etwa das 6.–10. Jahrhundert; seine Funktion ist umstritten – der Überlieferung nach ist er das Grab des legendären Stadtgründers Krakus."
+      },
+      {
+        "q": "Kann man den Krakus-Hügel nachts besuchen?",
+        "a": "Ja, das Gelände ist rund um die Uhr zugänglich, aber nachts ist die Beleuchtung begrenzt – nehmen Sie eine Taschenlampe mit und achten Sie auf den Boden; am Abend lohnt sich der Blick auf Sonnenuntergang und Stadtlichter."
+      },
+      {
+        "q": "Was gibt es in der Nähe noch zu sehen?",
+        "a": "In der Nähe liegen der Wanda-Hügel (Kopiec Wandy), der Podgórze-Marktplatz, die St.-Benedikt-Kirche und die Oskar-Schindler-Fabrik – gut für einen Tagesausflug zu kombinieren."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Quellen & Referenzen",
+    "intro": "Zur Überprüfung der Informationen auf dieser Seite wurden folgende offizielle und seriöse Quellen verwendet.",
+    "items": [
+      {
+        "name": "Poland Travel",
+        "url": "https://www.poland.travel/en",
+        "desc": "Offizielles Tourismusportal Polens."
+      },
+      {
+        "name": "Visit Kraków",
+        "url": "https://visitkrakow.com/",
+        "desc": "Offizielle Tourismusinformation der Stadt Krakau."
+      },
+      {
+        "name": "Stadt Krakau",
+        "url": "https://www.krakow.pl/",
+        "desc": "Offizielle Website der Stadt Krakau (Denkmalschutz und Stadtinformationen)."
+      },
+      {
+        "name": "Wikipedia – Kopiec Krakusa",
+        "url": "https://en.wikipedia.org/wiki/Krakus_Mound",
+        "desc": "Übersicht zu Archäologie, Geschichte und Legenden des Hügels."
+      }
+    ],
+    "photoCredit": "Alle auf dieser Website gezeigten Fotos verbleiben im Eigentum ihrer Fotografen. Der Text wurde unabhängig erstellt; bei Abweichungen gelten die offiziellen Quellen."
   }
 }

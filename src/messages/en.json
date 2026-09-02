@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Krakus Mound｜Kraków Prehistoric Burial Mound & Panoramic Viewpoint",
-    "description": "Complete guide to Krakus Mound in Poland. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Prehistoric burial mound, historic earthwork, panoramic viewpoint, cultural heritage."
+    "title": "Krakus Mound (Kraków) – Visitor Guide & Location",
+    "description": "Discover Krakus Mound (Kopiec Krakusa), the prehistoric burial mound and panoramic viewpoint in Kraków, Lesser Poland Voivodeship. Free 24/7; map, opening hours, transport and travel tips."
   },
   "header": {
     "siteName": "Krakus Mound",
@@ -11,20 +11,22 @@
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "faq": "FAQ"
   },
   "hero": {
-    "title": "Krakus Mound",
+    "title": "Krakus Mound (Kraków)",
     "subtitle": "Kraków Prehistoric Burial Mound・Panoramic Viewpoint & Cultural Heritage",
     "rating": "4.8",
-    "reviewCount": "11,050",
+    "reviewCount": "11,297",
     "hours": "Open 24/7",
     "openMaps": "View Location",
-    "imageSrc": "/gallery/images (1).jpg"
+    "imageSrc": "/gallery/images (1).jpg",
+    "imgAlt": "Krakus Mound – prehistoric burial mound in Kraków, Poland"
   },
   "intro": {
     "title": "Discover Krakus Mound",
-    "description": "The moment you climb to the top of Krakus Mound, you'll be instantly moved by the primal and vast atmosphere. Unlike exquisite man-made monuments, this thousand-year-old earth mound sits quietly in the suburbs of Kraków, covered with grass and plants, with wind sweeping through the wild grass, carrying a profound sense of ancient history. I visited at dusk, when the entire mound is quiet and soothing, far from the hustle and bustle of the old town, surrounded by lush greenery, with views stretching outward.\n\nWalking slowly along the gentle slope trail to the summit, the entire city of Kraków unfolds before your eyes, with continuous red-roofed old town, winding river and distant mountains complementing each other, with transparent and healing views. There aren't many people on the mound, with occasional visitors walking quietly and waiting for sunset, no commercial stalls, only pure natural wilderness and ancient ruins.\n\nHere hides the oldest legend of the city. Every inch of rammed earth under your feet bears the traces left by prehistoric civilization. Standing at the top of the highland and looking into the distance, you can feel the mysterious atmosphere of ancient legends while overlooking the daily life of the modern city, where ancient and modern gently intersect.\n\nWhen the sunset slowly descends, warm yellow light spreads across the entire wilderness, the outline of the mound becomes soft and long, and the city tone becomes gentle and hazy. At this moment, you'll understand why locals prefer to come here to relax. The ancient mound is not just a historical site, but also the quietest viewing secret and spiritual sanctuary of the city.",
+    "description": "The moment you climb to the top of Krakus Mound, you'll be instantly moved by the primal and vast atmosphere. Unlike exquisite man-made monuments, this thousand-year-old earth mound sits quietly in the suburbs of Kraków, covered with grass and plants, with wind sweeping through the wild grass, carrying a profound sense of ancient history. I visited at dusk, when the entire mound is quiet and soothing, far from the hustle and bustle of the old town, surrounded by lush greenery, with views stretching outward.\n\nWalking slowly along the gentle slope trail to the summit, the entire city of Kraków unfolds before your eyes, with continuous red-roofed old town, winding river and distant mountains complementing each other, with transparent and healing views. There aren't many people on the mound, with occasional visitors walking quietly and waiting for sunset, no commercial stalls, only pure natural wilderness and ancient ruins.\n\nHere hides the oldest legend of the city. Every inch of rammed earth under your feet bears the traces left by prehistoric civilization. Standing at the top of the highland and looking into the distance, you can feel the mysterious atmosphere of ancient legends while overlooking the daily life of the modern city, where ancient and modern gently intersect.\n\nWhen the sunset slowly descends, warm yellow light spreads across the entire wilderness, the outline of the mound becomes soft and long, and the city tone becomes gentle and hazy. At this moment, you'll understand why locals prefer to come here to relax. The ancient mound is not just a historical site, but also the quietest viewing secret and spiritual sanctuary of the city. When visiting Krakus Mound, you can easily explore surrounding landmarks and points of interest, including the legendary Wanda Mound (Kopiec Wandy) and Oskar Schindler’s Enamel Factory, both in the same Podgórze district.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -80,7 +82,7 @@
     "city": "City",
     "cityValue": "Kraków",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (11,050)",
+    "googleRatingValue": "4.8 (11,297)",
     "phone": "Phone",
     "phoneValue": "",
     "address": "Address",
@@ -433,8 +435,11 @@
     "title": "How to Get Here",
     "subtitle": "30-543 Kraków, Poland",
     "openMaps": "View on Google Maps",
-    "embedUrl": "https://maps.google.com/maps?q=30-543+Kraków,+Poland&output=embed",
-    "mapsUrl": "https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8"
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d18231.640029756818!2d19.9481142!3d50.0380942!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b5116eb7d0f%3A0x76735d35fb48c49b!2z5YWL5ouJ5bqr5pav5LiY!5e1!3m2!1szh-CN!2s!4v1788336053275!5m2!1szh-CN!2s",
+    "mapsUrl": "https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8",
+    "authorityLabel": "Official tourism information:",
+    "authorityText": "Poland Travel (poland.travel)",
+    "authorityUrl": "https://www.poland.travel/en"
   },
   "footer": {
     "siteName": "Krakus Mound",
@@ -469,7 +474,8 @@
         "url": "https://krakow.travel/"
       }
     ],
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
+    "photoCredit": "All photos displayed on this website remain the property of their original photographers."
   },
   "officialManagement": {
     "title": "About Krakus Mound",
@@ -477,7 +483,7 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: September 2, 2026",
     "sections": [
       {
         "heading": "Information We Collect",
@@ -499,7 +505,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: September 2, 2026",
     "sections": [
       {
         "heading": "Access and Use",
@@ -546,5 +552,66 @@
     "save": "Save Preferences",
     "saved": "Saved",
     "rejectAll": "Reject All"
+  },
+  "faq": {
+    "title": "FAQ",
+    "intro": "Quick answers about location, admission and what to expect at Krakus Mound.",
+    "items": [
+      {
+        "q": "Where is Krakus Mound located?",
+        "a": "Krakus Mound stands on a hill in the Podgórze district of Kraków (postal code 30-543), in Lesser Poland Voivodeship, Poland — about 3 km south of the Old Town."
+      },
+      {
+        "q": "Is Krakus Mound free to visit?",
+        "a": "Yes, the mound is a public archaeological monument and admission is free; the site is open 24 hours a day all year round."
+      },
+      {
+        "q": "How do I get to Krakus Mound?",
+        "a": "From Kraków’s Old Town you can walk in about 30–40 minutes, or take a tram or bus towards Podgórze and continue on foot uphill; if driving, park nearby and follow the walking path to the summit."
+      },
+      {
+        "q": "What can I see from the top of Krakus Mound?",
+        "a": "From the summit you get a 360° panorama of Kraków — Wawel Castle, the Old Town skyline, the Vistula River and distant hills — an excellent spot for photography and sunsets."
+      },
+      {
+        "q": "When and why was Krakus Mound built?",
+        "a": "Archaeological research dates the mound to roughly the 6th–10th centuries AD; its purpose is debated — tradition holds it is the grave of Krakus, legendary founder of Kraków, though ritual and astronomical uses have also been proposed."
+      },
+      {
+        "q": "Can I visit Krakus Mound at night?",
+        "a": "Yes, the area is accessible around the clock, but lighting is limited at night, so bring a torch and watch your step; dusk is the best time to enjoy the sunset and city lights."
+      },
+      {
+        "q": "What else is worth visiting near Krakus Mound?",
+        "a": "Nearby sights include Wanda Mound (Kopiec Wandy), Podgórze Market Square, St Benedict’s Church and Oskar Schindler’s Enamel Factory — easy to combine into one day."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "intro": "The following official and authoritative sources were used to verify the information on this page.",
+    "items": [
+      {
+        "name": "Poland Travel",
+        "url": "https://www.poland.travel/en",
+        "desc": "Official portal of the Polish National Tourism Organization."
+      },
+      {
+        "name": "Visit Kraków",
+        "url": "https://visitkrakow.com/",
+        "desc": "Official tourist information website of the city of Kraków."
+      },
+      {
+        "name": "City of Kraków",
+        "url": "https://www.krakow.pl/",
+        "desc": "Official website of the Municipality of Kraków (monument protection and city information)."
+      },
+      {
+        "name": "Wikipedia – Krakus Mound",
+        "url": "https://en.wikipedia.org/wiki/Krakus_Mound",
+        "desc": "Overview of the archaeology, history and legends of Krakus Mound."
+      }
+    ],
+    "photoCredit": "All photos displayed on this website remain the property of their original photographers. The text is independently compiled; in case of discrepancies, official sources prevail."
   }
 }

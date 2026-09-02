@@ -50,6 +50,11 @@ export default function Footer() {
         >
           <p>{t('rights')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+          {t('photoCredit') && (
+            <p className="text-xs max-w-3xl mx-auto leading-relaxed font-medium" style={{ color: 'var(--text-secondary)' }}>
+              {t('photoCredit')}
+            </p>
+          )}
         </div>
       </div>
     </footer>

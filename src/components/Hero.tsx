@@ -10,7 +10,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src={imageSrc}
-          alt={t('title')}
+          alt={t('imgAlt') || `${t('title')} – main view in Kraków, Poland`}
           className="w-full h-full object-cover"
           fetchPriority="high"
           decoding="async"

@@ -14,6 +14,8 @@ import HotelsSection from '@/components/HotelsSection';
 import FacilitiesSection from '@/components/FacilitiesSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
+import FAQSection from '@/components/FAQSection';
+import SourcesSection from '@/components/SourcesSection';
 import WeatherSection from '@/components/WeatherSection';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
@@ -44,8 +46,10 @@ export default async function HomePage({
         <FacilitiesSection />
         <Gallery />
         <Reviews />
+        <FAQSection />
         <WeatherSection />
         <MapEmbed />
+        <SourcesSection />
       </main>
       <Footer />
     </>
