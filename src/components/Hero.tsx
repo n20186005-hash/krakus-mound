@@ -2,7 +2,7 @@ import { useTranslations } from 'next-intl';
 
 export default function Hero() {
   const t = useTranslations('hero');
-  const imageSrc = t('imageSrc') || '/gallery/images (1).jpg';
+  const imageSrc = t('imageSrc') || '/gallery/krakus-mound-1.jpg';
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">

@@ -7,8 +7,8 @@ import type { Metadata } from 'next';
 const baseUrl = 'https://krakusmound.com';
 const GA_ID = 'G-HXM22WWPKP';
 const MAPS_URL = 'https://maps.app.goo.gl/nKLB2UWiMWqCKgoV8';
-const HERO_IMAGE = `${baseUrl}/gallery/images%20(1).jpg`;
-const SECOND_IMAGE = `${baseUrl}/gallery/images%20(2).jpg`;
+const HERO_IMAGE = `${baseUrl}/gallery/krakus-mound-1.jpg`;
+const SECOND_IMAGE = `${baseUrl}/gallery/krakus-mound-2.jpg`;
 
 const htmlLang: Record<string, string> = {
   zh: 'zh-CN',
